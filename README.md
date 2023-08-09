@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, mi nombre es Jefferson Silva Quinto</h1>
-<h3 align="center">Soy un programador Front-end que estudia y mejora continuamente.</h3>
+<h3 align="center">Programador Front-end</h3>
 
 - 💬 Ask me about **Html,Css,JavaScript,Python,Java,C++**
 
