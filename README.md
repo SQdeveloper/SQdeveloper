@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, mi nombre es Jefferson Silva Quinto</h1>
 <h3 align="center">Programador Front-end</h3>
 
-- 💬 Ask me about **Html,Css,JavaScript,Python,Java,C++**
+- 💬 Ask me about **Html,Css,JavaScript,Python,Java,C++,React**
 
 - 📫 How to reach me **jefferson.silvaquinto@gmail.com**
 
